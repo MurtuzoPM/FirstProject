@@ -19,3 +19,5 @@ Merging the dev and feature_1 branches
 ![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/1da8f508-8f92-4881-b3d5-742543d28d2f)
 Switched to main branch and merged the dev with it 
 
+![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/a9af5dc7-20e3-4b62-bda0-90149aff3f2e)
+pushed all the commits to the remote repository
