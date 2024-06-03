@@ -10,3 +10,12 @@ made changes in the feature_1 branch editing the text from Hello World! to Hello
 ![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/6d781a7f-fcd7-41fe-87ea-50f7afd3e642)
 made changes renaming the secret recipe.htm to not-secret recipe.htm
 
+![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/3e659abb-480a-4c13-9646-01c82de88e04)
+switched to dev and merged the feature_1 with it
+
+![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/62c9d213-3faf-4073-99f7-a55ab81867b3)
+Merging the dev and feature_1 branches
+
+![image](https://github.com/MurtuzoPM/FirstProject/assets/171500239/1da8f508-8f92-4881-b3d5-742543d28d2f)
+Switched to main branch and merged the dev with it 
+
